@@ -4,8 +4,8 @@
   "description": "New awesome project",
   "main": "index.js",
   "scripts": {
-    "compile" : "webpack -d --watch",
-    "start" : "node index.js",
+    "compile": "webpack -d --watch",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mallory Coeur <mallory.coeur@gmail.com>",
@@ -22,6 +22,9 @@
     "express": "^4.14.1",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0",
+    "redux-logger": "^2.8.0",
     "webpack": "^2.2.1"
   }
 }
