@@ -4,7 +4,8 @@
   "description": "New awesome project",
   "main": "index.js",
   "scripts": {
-    "start" : "webpack -d --watch",
+    "compile" : "webpack -d --watch",
+    "start" : "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mallory Coeur <mallory.coeur@gmail.com>",
