@@ -1,4 +1,4 @@
-# React-Express
+# React-Express-Redux
 
 A simple Express + React + Redux boilerplate.
 
