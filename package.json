@@ -1,0 +1,26 @@
+{
+  "name": "new-awesome-project",
+  "version": "1.0.0",
+  "description": "New awesome project",
+  "main": "index.js",
+  "scripts": {
+    "start" : "webpack -d --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mallory Coeur <mallory.coeur@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcoeur/react-express.git"
+  },
+  "dependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "express": "^4.14.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^2.2.1"
+  }
+}
