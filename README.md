@@ -1,6 +1,8 @@
 # React-Express
 
-A simple Express + React boilerplate.
+A simple Express + React + Redux boilerplate.
+
+Includes a sample counter app.
 
 ### How-To
 
